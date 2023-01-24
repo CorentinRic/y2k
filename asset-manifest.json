@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/y2k/static/css/main.f48b1862.css",
-    "main.js": "/y2k/static/js/main.b67126e9.js",
-    "static/media/y2k.gif": "/y2k/static/media/y2k.484b6a7227f0ca97ae55.gif",
+    "main.css": "/y2k/static/css/main.f870db53.css",
+    "main.js": "/y2k/static/js/main.17afda9b.js",
     "static/media/bravo.gif": "/y2k/static/media/bravo.cfe6a6f119fd94118b7b.gif",
     "static/media/glade-optics-ttGLlNElbCc-unsplash.webp": "/y2k/static/media/glade-optics-ttGLlNElbCc-unsplash.9593d9d7b87f1cd4c45d.webp",
     "static/media/wilmer-martinez-Lme2Ye2jVo8-unsplash.webp": "/y2k/static/media/wilmer-martinez-Lme2Ye2jVo8-unsplash.ae8997a0ad7b5ab70bdb.webp",
@@ -34,11 +33,11 @@
     "static/media/karsten-winegeart-pCS5YlrskC8-unsplash.webp": "/y2k/static/media/karsten-winegeart-pCS5YlrskC8-unsplash.95849fb20cbfaeb0b253.webp",
     "static/media/mo-darbz-q-k7VVjcLNQ-unsplash.webp": "/y2k/static/media/mo-darbz-q-k7VVjcLNQ-unsplash.7ac9d3242f82f8e23f87.webp",
     "index.html": "/y2k/index.html",
-    "main.f48b1862.css.map": "/y2k/static/css/main.f48b1862.css.map",
-    "main.b67126e9.js.map": "/y2k/static/js/main.b67126e9.js.map"
+    "main.f870db53.css.map": "/y2k/static/css/main.f870db53.css.map",
+    "main.17afda9b.js.map": "/y2k/static/js/main.17afda9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f48b1862.css",
-    "static/js/main.b67126e9.js"
+    "static/css/main.f870db53.css",
+    "static/js/main.17afda9b.js"
   ]
 }
