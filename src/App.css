@@ -108,7 +108,6 @@ a {
     max-height: 35rem;
   }
 }
-
 @media (max-width: 600px) {
   .container {
     max-height: 100%;
