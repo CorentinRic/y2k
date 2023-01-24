@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/y2k/static/css/main.f870db53.css",
-    "main.js": "/y2k/static/js/main.17afda9b.js",
+    "main.js": "/y2k/static/js/main.06039a4c.js",
     "static/media/bravo.gif": "/y2k/static/media/bravo.cfe6a6f119fd94118b7b.gif",
     "static/media/glade-optics-ttGLlNElbCc-unsplash.webp": "/y2k/static/media/glade-optics-ttGLlNElbCc-unsplash.9593d9d7b87f1cd4c45d.webp",
     "static/media/wilmer-martinez-Lme2Ye2jVo8-unsplash.webp": "/y2k/static/media/wilmer-martinez-Lme2Ye2jVo8-unsplash.ae8997a0ad7b5ab70bdb.webp",
     "static/media/3karsten-winegeart-cZVE4GpzQLM-unsplash.webp": "/y2k/static/media/3karsten-winegeart-cZVE4GpzQLM-unsplash.7d37e52a9a38732bc10e.webp",
     "static/media/2karsten-winegeart-CXKuFzhfo2Q-unsplash.webp": "/y2k/static/media/2karsten-winegeart-CXKuFzhfo2Q-unsplash.8970e2762d482b3e5ef8.webp",
     "static/media/2karsten-winegeart-d_YQ8A2fHmc-unsplash.webp": "/y2k/static/media/2karsten-winegeart-d_YQ8A2fHmc-unsplash.170017d8666bf705d325.webp",
+    "static/media/Mobileglade-optics-ttGLlNElbCc-unsplash.webp": "/y2k/static/media/Mobileglade-optics-ttGLlNElbCc-unsplash.766428045bb088f9c9a9.webp",
     "static/media/5karsten-winegeart-9QEMpewCmeE-unsplash.webp": "/y2k/static/media/5karsten-winegeart-9QEMpewCmeE-unsplash.e69476e09218586d8a05.webp",
     "static/media/1karsten-winegeart-R4yfMU8mvdE-unsplash.webp": "/y2k/static/media/1karsten-winegeart-R4yfMU8mvdE-unsplash.f87403dcea6309ba2b30.webp",
     "static/media/karsten-winegeart-7rT-t_LuDz4-unsplash.webp": "/y2k/static/media/karsten-winegeart-7rT-t_LuDz4-unsplash.bd6248f55b8a8b6caa52.webp",
@@ -34,10 +35,10 @@
     "static/media/mo-darbz-q-k7VVjcLNQ-unsplash.webp": "/y2k/static/media/mo-darbz-q-k7VVjcLNQ-unsplash.7ac9d3242f82f8e23f87.webp",
     "index.html": "/y2k/index.html",
     "main.f870db53.css.map": "/y2k/static/css/main.f870db53.css.map",
-    "main.17afda9b.js.map": "/y2k/static/js/main.17afda9b.js.map"
+    "main.06039a4c.js.map": "/y2k/static/js/main.06039a4c.js.map"
   },
   "entrypoints": [
     "static/css/main.f870db53.css",
-    "static/js/main.17afda9b.js"
+    "static/js/main.06039a4c.js"
   ]
 }
