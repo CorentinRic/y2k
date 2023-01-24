@@ -5,6 +5,8 @@ import Card from "../../components/Card/Card";
 import "./Shop.css";
 import Categories from "../../components/Categories/Categories";
 import banner from "../../assets/images/glade-optics-ttGLlNElbCc-unsplash.webp";
+import bannerMobile from "../../assets/images/Mobileglade-optics-ttGLlNElbCc-unsplash.webp";
+import useMediaQuery from "../../utils/useMediaQuery";
 
 function Shop() {
   const [activeCategory, setActiveCategory] = useState("");
@@ -13,6 +15,9 @@ function Shop() {
       acc.includes(elem.category) ? acc : acc.concat(elem.category),
     []
   );
+
+  /* Media queries. */
+  const matches = useMediaQuery("(min-width: 600px)");
 
   return (
     <main className="shop">
@@ -23,6 +28,12 @@ function Shop() {
             <p>Masques de neige - Lunettes</p>
           </div>
           <div className="banner__img">
+            {/* Changement de contenu <img /> si la page est supérieur à 600px. */}
+            {matches ? (
+              <img src={banner} alt="Bannière" />
+            ) : (
+              <img src={bannerMobile} alt="Bannière" />
+            )}
             <img src={banner} alt="Bannière" />
           </div>
         </div>
