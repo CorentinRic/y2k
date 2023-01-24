@@ -1,0 +1,24 @@
+.checkout__main,
+.checkout__section,
+.checkout__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+.checkout__container {
+  width: 80%;
+  background: var(--color-star);
+  padding: 1rem 0 1rem 0;
+}
+.checkout__container img {
+  width: 100%;
+  max-width: 33rem;
+  margin-bottom: 2rem;
+}
+.checkout__container > h2 {
+  background: var(--color-primary-dark);
+  color: var(--color-light);
+  padding: 1rem;
+}

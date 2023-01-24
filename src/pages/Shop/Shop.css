@@ -1,0 +1,78 @@
+.shop__section {
+  flex-direction: column;
+  margin-bottom: 5rem;
+  padding-top: 0;
+}
+.banner {
+  width: 100%;
+  height: 80vh;
+  min-height: 20rem;
+  max-height: 60rem;
+  position: relative;
+}
+.banner__content {
+  position: absolute;
+  z-index: 0;
+  bottom: 2rem;
+  left: 2rem;
+}
+.banner__content > h1 {
+  font-size: 10rem;
+  color: var(--color-primary);
+}
+.banner__content > h1:hover {
+  text-transform: lowercase;
+  color: var(--color-star);
+}
+.banner__content > p {
+  font-size: 2rem;
+  color: var(--color-dark);
+  background: var(--color-primary-light);
+  padding: 10px 20px 10px 20px;
+}
+.banner__img {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.banner__img > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.shop__title {
+  text-align: center;
+  font-size: 2rem;
+  width: 100%;
+  display: flex;
+  padding-left: 2rem;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  margin-bottom: 4rem;
+  border-bottom: 2px solid;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
+@media (max-width: 600px) {
+  .products {
+    flex-direction: column;
+    width: 90%;
+    max-width: 22rem;
+  }
+  .banner__content {
+    left: 1rem;
+    bottom: 5rem;
+  }
+  .banner__content > h1 {
+    font-size: 5rem;
+  }
+  .banner__content > p {
+    font-size: 13px;
+  }
+}
